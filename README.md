@@ -3,7 +3,7 @@
 ## Setup & Installtion
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/amalaj7/Flask-Authentication.git
 ```
 
 ```bash
